@@ -221,7 +221,7 @@ function MiddleSchool() {
                 5. Geometry KAP A  & B (5.0, 1 credit): Anyone who recieved credit for algebra I, either through the CBE or normally, is eligible to take this course.
                 </p>
                 <p className="mt-3">
-                6. Algebra I A  & B (EX, 1 credit): Anyone who recieved credit for 7th grade math KAP, either through the CBE or normally, is eligible to take this course. This course does not affect your high school GPA if you are class of 2029+.
+                6. Algebra I A & B (EX/4.0, 1 credit): This does not affect your GPA if you are class of 2029 or younger. If you are class of 2028 or older, Algebra 1 counts as a 4.0 course.
                 </p>
             {showSavedGrades && (
               <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
