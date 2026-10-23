@@ -16,7 +16,7 @@ import MiddleSchool from './MiddleSchool.js'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter> 
+    <BrowserRouter basename="/katygradecalc"> 
       <Routes> 
         <Route path="/" element={<App />} /> 
         <Route path="/feedback" element={<Feedback/>} />
