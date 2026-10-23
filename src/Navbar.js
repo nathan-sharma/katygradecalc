@@ -42,7 +42,7 @@ function Navbar({ setShowHowToUse }) {
         <div className={`flex items-center ${isOpen ? 'hidden' : 'flex'}`}>
           <Link to="/">
             <img
-              src="/A-192x192.png"
+              src="//katygradecalc/A-192x192.png"
               alt="KISD Grade Calculator Logo"
               className="h-8 mr-3"
               style={{ marginBottom: '-2px' }}
@@ -129,7 +129,7 @@ function Navbar({ setShowHowToUse }) {
              onMouseLeave={(e) => (e.currentTarget.style.transform = 'scale(1)')}
             >
               <img
-                src="/imessage.png"
+                src="//katygradecalc/imessage.png"
                 alt="Imessage logo"
                 className="h-8 md:h-10 mr-3 mb-2 mt-3"
                 style={{ marginBottom: '-2px' }}
@@ -161,7 +161,7 @@ function Navbar({ setShowHowToUse }) {
              onMouseEnter={(e) => (e.currentTarget.style.transform = 'scale(1.2)')}
              onMouseLeave={(e) => (e.currentTarget.style.transform = 'scale(1)')}>
             <img
-              src="/reddit-logo.png"
+              src="//katygradecalc/reddit-logo.png"
               alt="Reddit Logo"
               className="h-8 mr-3 mt-3"
               style={{ marginBottom: '-2px' }}
@@ -172,7 +172,7 @@ function Navbar({ setShowHowToUse }) {
              onMouseEnter={(e) => (e.currentTarget.style.transform = 'scale(1.2)')}
              onMouseLeave={(e) => (e.currentTarget.style.transform = 'scale(1)')}>
             <img
-              src="/whatsapp-logo.png"
+              src="//katygradecalc/whatsapp-logo.png"
               alt="Whatsapp Logo"
               className="h-8 mr-3 mt-3"
               style={{ marginBottom: '-2px' }}

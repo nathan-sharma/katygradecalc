@@ -31,19 +31,19 @@ function HowToUse() {
 
                 <div className="flex flex-col md:flex-row mt-4 gap-4">
                     <img
-                        src="/classaverageexample.png"
+                        src="//katygradecalc/classaverageexample.png"
                         alt="HAC view for class average"
                         className="max-w-full md:max-w-[70%] h-auto rounded-md shadow-md"
                     />
                     <img
-                        src="/classaverageexample2.png"
+                        src="//katygradecalc/classaverageexample2.png"
                         alt="Example of class average input"
                         className="max-w-full md:max-w-[30%] h-auto rounded-md shadow-md"
                     />
                 </div>
                 <div className="flex justify-center items-center mt-2">
                     <img
-                        src="/classaverageexample3.png"
+                        src="//katygradecalc/classaverageexample3.png"
                         alt="Example of class average input with mock grade"
                         className="max-w-full md:max-w-[30%] h-auto rounded-md shadow-md"
                     />
@@ -56,7 +56,7 @@ function HowToUse() {
             <p className = "mt-3">Students can utilize the GPA calculator to calculate their current GPAs, future GPAs, and the GPAs of competitors. Entries must be in the following format: Letter grade(Number of semesters), separated by commas. Input the number of semesters each letter grade was earned in parentheses, and make sure to include high school credit courses taken in middle school in the calculation. </p>
             <div className="flex flex-col md:flex-row mt-4 gap-4 justify-center items-center">
             <img
-                        src="/exampletranscript.png"
+                        src="//katygradecalc/exampletranscript.png"
                         alt="Example transcript"
                         className="max-w-full md:max-w-[35%] h-auto rounded-md shadow-md"
                     />
@@ -64,7 +64,7 @@ function HowToUse() {
                 <p className = "mt-3">In the example transcript above, the student earned As in four and Bs in two 4.0 semesters. They earned As in two 5.0 semesters, a B in one 5.0 semester, and Cs in two 5.0 semesters. They also earned As in 1 dual credit (4.5) semester and a B in another dual credit semester. Their calculation would be the following:</p>
                 <div className="flex flex-col md:flex-row mt-4 gap-4 justify-center items-center">
             <img
-                        src="/gpaexample.png"
+                        src="//katygradecalc/gpaexample.png"
                         alt="Example GPA calculation"
                         className="max-w-full md:max-w-[45%] h-auto rounded-md shadow-md"
                     />
@@ -77,12 +77,12 @@ function HowToUse() {
 
                 <div className="flex flex-col md:flex-row items-center justify-center mt-4 gap-4">
                     <img
-                        src="/semesterexamexample.png"
+                        src="//katygradecalc/semesterexamexample.png"
                         alt="HAC view for semester exam average"
                         className="max-w-full md:max-w-[60%] h-auto rounded-md shadow-md"
                     />
                     <img
-                        src="/semesterexamexample2.png"
+                        src="//katygradecalc/semesterexamexample2.png"
                         alt="Example of semester exam input"
                         className="max-w-full md:max-w-[45%] h-auto rounded-md shadow-md"
                     />
